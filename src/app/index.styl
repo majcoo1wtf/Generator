@@ -1,0 +1,79 @@
+@import 'banners/default'
+@import 'banners/authtips'
+
+body
+  -webkit-font-smoothing: subpixel-antialiased;
+  text-align: center;
+
+[contentEditable]
+  outline: none;
+  -webkit-user-select: text;
+  user-select: text;
+  border-radius: 3px;
+
+.btn
+  .icon
+    position: relative;
+    top: 2px;
+    margin-left: 10px;
+
+.clone-wrapper
+  opacity: 0;
+  position: absolute;
+  pointer-events: none;
+
+.stage
+  padding: 40px;
+  padding-top: 20px;
+
+.a0-banner-base.clone
+  font-size: calc(16px * 2);
+
+  .btn
+    border-radius: 6px;
+
+.a0-banner-base
+  font-size: 16px;
+  background: gray;
+  outline: none;
+  text-align: center;
+  padding: 1.5em;
+  cursor: default !important;
+  position: relative;
+  margin: 0 auto;
+
+  &:focus
+    opacity: 0.8;
+
+  .copy
+    padding-top: 1em;
+    font-size: 1em;
+    line-height: 1.6;
+    font-weight: normal;
+    margin-bottom: 1.1em;
+    display: inline-block;
+
+  .btn.btn-success
+    outline: none;
+    cursor: default !important;
+    background-color: #eb5424 !important;
+    padding: 0.8em 1.5em;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    display: inline-block;
+
+  .logo
+    position: absolute;
+    bottom: 1.5em;
+    left: 0;
+    text-align: center;
+    width: 100%;
+
+    &:after
+      content: "";
+      display: inline-block;
+      background-image: url('../img/logo-sm.png');
+      background-size: 100%;
+      background-repeat: no-repeat;
+      height: 1.5em;
+      width: 4em;
