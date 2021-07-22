@@ -70,7 +70,27 @@
 	    "height": 1000,
 	    "cssClass": "a0-banner-spain square"
 	  },
-	
+	 {
+	    "id": 2,
+	    "name": "France Banner",
+	    "width": 1000,
+	    "height": 1000,
+	    "cssClass": "a0-banner-france square"
+	  },
+	   {
+	    "id": 3,
+	    "name": "Brazil Banner",
+	    "width": 1000,
+	    "height": 1000,
+	    "cssClass": "a0-banner-Brazil square"
+	  },
+	   {
+	    "id": 4,
+	    "name": "Portugal Banner",
+	    "width": 1000,
+	    "height": 1000,
+	    "cssClass": "a0-banner-Portugal square"
+	  },
 	];
 
 	var ContentEditable = React.createClass({displayName: 'ContentEditable',
@@ -114,7 +134,6 @@
 
 	    return {
 	      copy: config.defaultCopy || 'Enter Promocode',
-	      cta: config.defaultCTA || ''
 	    };
 	  },
 	  getStyles: function(x) {
@@ -139,9 +158,7 @@
 	        React.DOM.div({style: this.getStyles(1), className: this.props.config.cssClass + ' a0-banner-base'}, 
 	          React.DOM.div({className: "center"}, 
 	            ContentEditable({name: "copy", ref: "copy", className: "copy", html: this.state.copy, onChange: this.handleChange}), 
-	            ContentEditable({name: "cta", ref: "cta", className: "btn btn-success btn-md", html: this.state.cta, onChange: this.handleChange}), 
-	            React.DOM.br(null), 
-	            React.DOM.div({className: "logo"})
+	          
 	          )
 	        ), 
 	        React.DOM.div({className: "clone-wrapper"}, 
@@ -151,13 +168,7 @@
 	              className: "copy", 
 	              dangerouslySetInnerHTML: {__html: this.state.copy}}), 
 
-	            React.DOM.div({
-	              spellCheck: "false", 
-	              className: "btn btn-success btn-md", 
-	              dangerouslySetInnerHTML: {__html: this.state.cta}}), 
-
-	            React.DOM.br(null), 
-	            React.DOM.div({className: "logo"})
+	            
 	          )
 	        )
 	      )
@@ -221,7 +232,7 @@
 	          )
 	        ), 
 	        Banner({ref: "editedBanner", config: template, updateDownload: this.generateURI}), 
-	        React.DOM.a({href: this.state.banner, ref: "downloadButton", download: 'banner-' + size.w + 'x' + size.h + '.png', className: "btn btn-primary btn-lg"}, "Download ", React.DOM.span({className: "icon icon-budicon-433"}))
+	        React.DOM.a({href: this.state.banner, ref: "downloadButton", download: 'banner-' + size.w + 'x' + size.h + '.png', className: "btn btn-success btn-lg"}, "Download ", React.DOM.span({className: ""}))
 	      )
 	    );
 	  }

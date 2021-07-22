@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <filter id="Ellipse_1469" x="-1167.973" y="-1197.061" width="1064.502" height="1064.502" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17" result="blur"/>
+      <feFlood flood-color="#00ff86"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1472" x="-511.63" y="-1022.971" width="1062.5" height="1062.501" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17" result="blur-2"/>
+      <feFlood flood-color="#00ff86"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1474" x="-993.882" y="-544.722" width="1066.503" height="1066.503" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17" result="blur-3"/>
+      <feFlood flood-color="#00ff86"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_773" x="179" y="663.25" width="643" height="238" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="#00ff86" flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="CANJEAR" x="261.291" y="706.75" width="478" height="148" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-5"/>
+      <feFlood flood-color="#00ff86" flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1475" x="776.5" y="-79.5" width="378" height="378" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8.5" result="blur-6"/>
+      <feFlood flood-color="#00ff86"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1476" x="-242.5" y="716.5" width="378" height="378" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8.5" result="blur-7"/>
+      <feFlood flood-color="#00ff86"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ff86"/>
+      <stop offset="1" stop-color="#008043" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="Usa_el_codigo" x="387.5" y="519.5" width="226" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Recebe_15_Rakeback_durante_7_dias_" x="71.5" y="281.75" width="856" height="230" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_18_Novos_clientes_apenas_Aposta_responsavelmente" x="115" y="925" width="772" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Portugal">
+      <rect width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="Portugal" clip-path="url(#clip-Portugal)">
+    <rect width="1000" height="1000" fill="#fff"/>
+    <rect id="Rectangle_771" data-name="Rectangle 771" width="1245" height="1176" transform="translate(-54 -11)" fill="#1c232a"/>
+    <g id="Logo" transform="translate(311.602 53.51)">
+      <g id="Group_298" data-name="Group 298" transform="translate(0 0)">
+        <g id="Group_297" data-name="Group 297">
+          <g id="Group_100" data-name="Group 100">
+            <g id="Group_1" data-name="Group 1">
+              <g id="Group_250" data-name="Group 250" transform="translate(84.37 18.512)">
+                <path id="Path_1" data-name="Path 1" d="M30.014,27.338c-.174-11.154,8.691-20.59,21.431-20.415a24.392,24.392,0,0,1,8.4,1.266,25.672,25.672,0,0,1,5.255,2.243V17.1a20.294,20.294,0,0,0-5.03-2.758,21.2,21.2,0,0,0-8.629-1.554c-9.427,0-14.969,6.38-14.969,14.55,0,8.108,5.767,14.55,13.947,14.55a17.678,17.678,0,0,0,10.511-3.509V29.92h-11.6V24.055H67.16V46.888H60.934V44.872a19.954,19.954,0,0,1-10.511,2.871A19.9,19.9,0,0,1,30.014,27.338Z" transform="translate(-30.012 -6.796)" fill="#fff"/>
+                <path id="Path_2" data-name="Path 2" d="M44.972,25.987c0-8.685,6.4-15.754,15.429-15.754a14.2,14.2,0,0,1,9.938,3.735V11.1h6.114V40.825H70.226l.061-3.046A13.2,13.2,0,0,1,60.4,41.69C51.372,41.69,44.972,34.672,44.972,25.987Zm25.715-.052c0-6.442-4.345-10.177-9.826-10.177-5.542,0-9.713,4.548-9.713,10.177s4.172,10.239,9.713,10.239C66.341,36.174,70.687,32.429,70.687,25.936Z" transform="translate(-2.916 -0.735)" fill="#fff"/>
+                <path id="Path_3" data-name="Path 3" d="M103.818,22.587V40.872H97.642V23.214c0-4.775-1.718-7.481-5.767-7.481-3.712,0-7.433,2.819-7.433,8.4V40.862H78.267V23.2c0-4.775-1.718-7.481-5.767-7.481-3.425,0-6.912,2.418-7.372,7.244V40.851H58.952V11.124h6.176v3.571c.347-.8,2.341-4.487,8.282-4.487,4.172,0,7.433,1.667,9.314,4.888,1.37-2.583,4.458-4.888,10.061-4.888C99.421,10.218,103.818,14.417,103.818,22.587Z" transform="translate(22.407 -0.782)" fill="#fff"/>
+                <path id="Path_4" data-name="Path 4" d="M76.537,32.128c0-8.685,6.4-15.754,15.429-15.754a14.2,14.2,0,0,1,9.938,3.735V7.916l6.176-1.039V46.956h-6.288l.061-3.046a13.2,13.2,0,0,1-9.887,3.91C82.938,47.83,76.537,40.813,76.537,32.128Zm25.715-.051c0-6.442-4.345-10.177-9.826-10.177a9.978,9.978,0,0,0-9.887,10.177,10.025,10.025,0,0,0,9.887,10.238C97.907,42.315,102.252,38.569,102.252,32.077Z" transform="translate(54.257 -6.876)" fill="#fff"/>
+                <path id="Path_5" data-name="Path 5" d="M89.587,25.987a16.181,16.181,0,0,1,32.35,0,16.182,16.182,0,0,1-32.35,0Zm26.4,0a10.225,10.225,0,1,0-10.224,10.125A10.075,10.075,0,0,0,115.987,25.987Z" transform="translate(77.894 -0.735)" fill="#fff"/>
+                <path id="Path_6" data-name="Path 6" d="M147.9,22.587V40.872h-6.173V23.214c0-4.775-1.718-7.481-5.769-7.481-3.711,0-7.433,2.819-7.433,8.4V40.862h-6.176V23.2c0-4.775-1.718-7.481-5.766-7.481-3.424,0-6.913,2.418-7.371,7.244V40.851h-6.165V11.124h6.174v3.571c.349-.8,2.342-4.487,8.282-4.487,4.172,0,7.436,1.667,9.316,4.888,1.369-2.583,4.459-4.888,10.061-4.888C143.5,10.218,147.9,14.417,147.9,22.587Z" transform="translate(102.268 -0.782)" fill="#fff"/>
+              </g>
+              <path id="Path_7" data-name="Path 7" d="M23.508,14.314,4.225,23.493a1.694,1.694,0,0,0-.941,1.523V42.838a1.683,1.683,0,0,0,.941,1.523L23.518,53.55a3.569,3.569,0,0,0,1.554.35V13.954A3.989,3.989,0,0,0,23.508,14.314Z" transform="translate(5.948 24.583)" fill="#00ff86"/>
+              <path id="Path_8" data-name="Path 8" d="M30.163.539,21.114,5.046V17.157L10.521,22.384V10.17L1.033,14.914A1.872,1.872,0,0,0,0,16.581V39.918a1.85,1.85,0,0,0,2.658,1.667L29.375,28.394a3.712,3.712,0,0,1,1.646-.381V.333A1.919,1.919,0,0,0,30.163.539Z" transform="translate(0 -0.333)" fill="#00ff86"/>
+              <path id="Union_32" data-name="Union 32" d="M0,38.537a3.373,3.373,0,0,1,1.564.35l19.294,9.179A1.7,1.7,0,0,1,21.8,49.6V67.421a1.694,1.694,0,0,1-.941,1.523L1.575,78.133A3.665,3.665,0,0,1,0,78.482Zm28.363,2.715L1.646,28.06A3.862,3.862,0,0,0,0,27.68V0A1.954,1.954,0,0,1,.859.206L9.908,4.713V16.824l10.6,5.227V9.827L30,14.571a1.848,1.848,0,0,1,1.023,1.677V39.585a1.857,1.857,0,0,1-1.847,1.859A1.822,1.822,0,0,1,28.363,41.252Z" transform="translate(31.021 0.008)" fill="#01d370"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1437" data-name="Group 1437" transform="translate(-6965.162 -5688.854) rotate(-45)">
+      <g transform="matrix(0.71, 0.71, -0.71, 0.71, 902.49, 8947.74)" filter="url(#Ellipse_1469)">
+        <g id="Ellipse_1469-2" data-name="Ellipse 1469" transform="translate(-1116.97 -668.81) rotate(-45)" fill="none" stroke="#00ff86" stroke-width="9">
+          <ellipse cx="339.588" cy="341.003" rx="339.588" ry="341.003" stroke="none"/>
+          <ellipse cx="339.588" cy="341.003" rx="335.088" ry="336.503" fill="none"/>
+        </g>
+      </g>
+      <g id="Ellipse_1471" data-name="Ellipse 1471" transform="translate(928.006 8270.79)" fill="none" stroke="#00ff86" stroke-width="9">
+        <ellipse cx="338.173" cy="341.003" rx="338.173" ry="341.003" stroke="none"/>
+        <ellipse cx="338.173" cy="341.003" rx="333.673" ry="336.503" fill="none"/>
+      </g>
+      <g transform="matrix(0.71, 0.71, -0.71, 0.71, 902.49, 8947.74)" filter="url(#Ellipse_1472)">
+        <g id="Ellipse_1472-2" data-name="Ellipse 1472" transform="translate(-460.63 -496.72) rotate(-45)" fill="none" stroke="#00ff86" stroke-width="9">
+          <ellipse cx="338.173" cy="341.003" rx="338.173" ry="341.003" stroke="none"/>
+          <ellipse cx="338.173" cy="341.003" rx="333.673" ry="336.503" fill="none"/>
+        </g>
+      </g>
+      <g id="Ellipse_1473" data-name="Ellipse 1473" transform="translate(246 8270.79)" fill="none" stroke="#00ff86" stroke-width="9">
+        <circle cx="341.003" cy="341.003" r="341.003" stroke="none"/>
+        <circle cx="341.003" cy="341.003" r="336.503" fill="none"/>
+      </g>
+      <g transform="matrix(0.71, 0.71, -0.71, 0.71, 902.49, 8947.74)" filter="url(#Ellipse_1474)">
+        <g id="Ellipse_1474-2" data-name="Ellipse 1474" transform="translate(-942.88 -14.47) rotate(-45)" fill="none" stroke="#00ff86" stroke-width="9">
+          <circle cx="341.003" cy="341.003" r="341.003" stroke="none"/>
+          <circle cx="341.003" cy="341.003" r="336.503" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Polygon_57" data-name="Polygon 57" transform="translate(141 132)" fill="#21292f" opacity="0.73">
+      <path d="M327.821,54.021c13.855-24.006,48.5-24.006,62.359,0L686.835,568c13.852,24-3.469,54-31.179,54H62.344c-27.711,0-45.031-30-31.179-54Z" stroke="none"/>
+      <path d="M 359 37.01690673828125 C 353.0069885253906 37.01690673828125 347.1097412109375 38.52996826171875 341.9457397460938 41.392578125 C 339.2680053710938 42.87689208984375 336.7995910644531 44.71612548828125 334.6090698242188 46.85906982421875 C 332.3226623535156 49.09588623046875 330.330078125 51.6737060546875 328.6867370605469 54.52099609375 L 32.03082275390625 568.504150390625 C 30.387939453125 571.3506469726563 29.15277099609375 574.3648681640625 28.35955810546875 577.4629516601563 C 27.599853515625 580.4310302734375 27.2418212890625 583.48779296875 27.2957763671875 586.5484619140625 C 27.39959716796875 592.4507446289063 29.03814697265625 598.313232421875 32.034423828125 603.5020751953125 C 35.03057861328125 608.6907958984375 39.2889404296875 613.04052734375 44.3489990234375 616.0809936523438 C 46.97283935546875 617.6575317382813 49.79925537109375 618.8755493164063 52.74969482421875 619.7012329101563 C 55.82940673828125 620.56298828125 59.05743408203125 621 62.34405517578125 621 L 655.6558227539063 621 C 658.9425048828125 621 662.1705932617188 620.56298828125 665.250244140625 619.7012329101563 C 668.20068359375 618.8755493164063 671.027099609375 617.6575317382813 673.6510009765625 616.0809936523438 C 678.7110595703125 613.04052734375 682.9694213867188 608.6907958984375 685.965576171875 603.501953125 C 688.9618530273438 598.313232421875 690.6004028320313 592.4507446289063 690.7042236328125 586.5484619140625 C 690.7581787109375 583.48779296875 690.400146484375 580.4309692382813 689.6404418945313 577.4629516601563 C 688.8472290039063 574.3648681640625 687.612060546875 571.3506469726563 685.9691772460938 568.504150390625 L 389.3132629394531 54.52099609375 C 387.669921875 51.6737060546875 385.6773376464844 49.09588623046875 383.3908386230469 46.85906982421875 C 381.2003479003906 44.71612548828125 378.7319030761719 42.87689208984375 376.0541687011719 41.392578125 C 370.8901672363281 38.52996826171875 364.992919921875 37.01690673828125 359 37.01690673828125 M 358.9999694824219 36.016845703125 C 371.1258239746094 36.016845703125 383.2516784667969 42.01824951171875 390.1793212890625 54.02105712890625 L 686.8352661132813 568.0042114257813 C 700.6873168945313 592.0042114257813 683.3665161132813 622 655.6558227539063 622 L 62.34405517578125 622 C 34.63348388671875 622 17.31268310546875 592.0042114257813 31.16473388671875 568.0042114257813 L 327.8206787109375 54.02105712890625 C 334.748291015625 42.01824951171875 346.8741149902344 36.016845703125 358.9999694824219 36.016845703125 Z" stroke="none" fill="rgba(255,255,255,0.05)"/>
+    </g>
+    <g id="Group_1426" data-name="Group 1426" transform="translate(-160.027 430.153)">
+      <g id="Group_1425" data-name="Group 1425" transform="translate(369.027 260.097)">
+        <g id="Group_1423" data-name="Group 1423" transform="translate(0 0)">
+          <g transform="matrix(1, 0, 0, 1, -209, -690.25)" filter="url(#Rectangle_773)">
+            <rect id="Rectangle_773-2" data-name="Rectangle 773" width="583" height="178" rx="11" transform="translate(209 690.25)" fill="#00ff6a"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -209, -690.25)" filter="url(#CANJEAR)">
+            <text id="CANJEAR-2" data-name="CANJEAR" transform="translate(500.29 819.75)" fill="#232c31" stroke="rgba(255,255,255,0.05)" stroke-width="1" font-size="105" font-family="Manrope-ExtraBold, Manrope" font-weight="800"><tspan x="-237.457" y="0">CANJEAR</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_1475)">
+      <g id="Ellipse_1475-2" data-name="Ellipse 1475" transform="translate(802 -57)" fill="none" stroke="#00ff6a" stroke-width="7">
+        <circle cx="163.5" cy="163.5" r="163.5" stroke="none"/>
+        <circle cx="163.5" cy="163.5" r="160" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_1476)">
+      <g id="Ellipse_1476-2" data-name="Ellipse 1476" transform="translate(-217 739)" fill="none" stroke="#00ff6a" stroke-width="7">
+        <circle cx="163.5" cy="163.5" r="163.5" stroke="none"/>
+        <circle cx="163.5" cy="163.5" r="160" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_778" data-name="Rectangle 778" width="383" height="6" rx="3" transform="translate(309 152)" fill="url(#radial-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Usa_el_codigo)">
+      <text id="Usa_el_codigo-2" data-name="Usa el codigo" transform="translate(500.5 560.5)" fill="#fff" stroke="rgba(255,255,255,0.05)" stroke-width="1" font-size="32" font-family="Manrope-ExtraBold, Manrope" font-weight="800"><tspan x="-102.88" y="0">Usa el codigo</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Recebe_15_Rakeback_durante_7_dias_)">
+      <text id="Recebe_15_Rakeback_durante_7_dias_2" data-name="Recebe 15% Rakeback 
+durante 7 dias " transform="translate(499.5 370.75)" fill="#fff" stroke="rgba(255,255,255,0.05)" stroke-width="1" font-size="77" font-family="Manrope-ExtraBold, Manrope" font-weight="800"><tspan x="-417.282" y="0">Recebe </tspan><tspan y="0" fill="#00ff6a">15%</tspan><tspan y="0" xml:space="preserve"> Rakeback </tspan><tspan x="-268.98" y="105">durante </tspan><tspan y="105" fill="#00ff6a">7 dias</tspan><tspan y="105" fill="#00ff86"> </tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#_18_Novos_clientes_apenas_Aposta_responsavelmente)">
+      <text id="_18_Novos_clientes_apenas_Aposta_responsavelmente-2" data-name="+18 | Novos clientes apenas | Aposta responsavelmente" transform="translate(501 961)" fill="#324750" font-size="28" font-family="Manrope-ExtraBold, Manrope" font-weight="800"><tspan x="-376.838" y="0">+18 | Novos clientes apenas | Aposta responsavelmente</tspan></text>
+    </g>
+  </g>
+</svg>

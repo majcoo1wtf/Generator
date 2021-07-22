@@ -3,19 +3,40 @@
 var React = require('react');
 
 var BannersCollection = [
-  {
-    "id": 0,
-    "name": "English",
-    "width": 1000,
-    "height": 1000,
-    "cssClass": "a0-banner-default square"
-  },
- {
+   {
+	    "id": 0,
+	    "name": "English Banner",
+	    "width": 1000,
+	    "height": 1000,
+	    "cssClass": "a0-banner-default square"
+	  },
+	   {
 	    "id": 1,
 	    "name": "Spain Banner",
 	    "width": 1000,
 	    "height": 1000,
 	    "cssClass": "a0-banner-spain square"
+	  },
+	 {
+	    "id": 2,
+	    "name": "France Banner",
+	    "width": 1000,
+	    "height": 1000,
+	    "cssClass": "a0-banner-france square"
+	  },
+	   {
+	    "id": 3,
+	    "name": "Brazil Banner",
+	    "width": 1000,
+	    "height": 1000,
+	    "cssClass": "a0-banner-Brazil square"
+	  },
+	   {
+	    "id": 4,
+	    "name": "Portugal Banner",
+	    "width": 1000,
+	    "height": 1000,
+	    "cssClass": "a0-banner-Portugal square"
 	  },
 ];
 
@@ -58,10 +79,7 @@ var Banner = React.createClass({
   getInitialState: function() {
     var config = this.props.config;
 
-    return {
-      copy: config.defaultCopy || 'Enter tagline here,<br/>To create your first banner',
-      cta: config.defaultCTA || 'call-to-action'
-    };
+  
   },
   getStyles: function(x) {
     var props = this.props;
@@ -79,35 +97,25 @@ var Banner = React.createClass({
     this.setState(state);
     this.props.updateDownload();
   },
-  render: function () {
-    return (
-      <div className="stage">
-        <div style={this.getStyles(1)} className={this.props.config.cssClass + ' a0-banner-base'}>
-          <div className="center">
-            <ContentEditable name="copy" ref="copy" className="copy" html={this.state.copy} onChange={this.handleChange} />
-            <ContentEditable name="cta" ref="cta" className="btn btn-success btn-md" html={this.state.cta} onChange={this.handleChange} />
-            <br/>
-            <div className="logo"></div>
-          </div>
-        </div>
-        <div className="clone-wrapper">
-          <div ref="clone" style={this.getStyles(2)} className={this.props.config.cssClass + ' a0-banner-base clone'}>
-            <div
-              spellCheck="false"
-              className="copy"
-              dangerouslySetInnerHTML={{__html: this.state.copy}} />
+   },
+	  render: function () {
+	    return (
+	      React.DOM.div({className: "stage"}, 
+	        React.DOM.div({style: this.getStyles(1), className: this.props.config.cssClass + ' a0-banner-base'}, 
+	          React.DOM.div({className: "center"}, 
+	         
+	          
+	          )
+	        ), 
+	        React.DOM.div({className: "clone-wrapper"}, 
+	          React.DOM.div({ref: "clone", style: this.getStyles(2), className: this.props.config.cssClass + ' a0-banner-base clone'}, 
+	            React.DOM.div({
+	              spellCheck: "false", 
+	              className: "copy", 
+	              dangerouslySetInnerHTML: {__html: this.state.copy}}), 
 
-            <div
-              spellCheck="false"
-              className="btn btn-success btn-md"
-              dangerouslySetInnerHTML={{__html: this.state.cta}} />
-
-            <br/>
-            <div className="logo"></div>
-          </div>
-        </div>
-      </div>
-    );
+	         
+	          
   }
 });
 
@@ -167,7 +175,7 @@ var Index = React.createClass({
           </select>
         </p>
         <Banner ref="editedBanner" config={template} updateDownload={this.generateURI} />
-        <a href={this.state.banner} ref="downloadButton" download={'banner-' + size.w + 'x' + size.h + '.png'} className="btn btn-primary btn-lg">Download <span className="icon icon-budicon-433"></span></a>
+        <a href={this.state.banner} ref="downloadButton" download={'banner-' + size.w + 'x' + size.h + '.png'} className="btn btn-success btn-lg">Download</span></a>
       </div>
     );
   }
