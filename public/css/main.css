@@ -65,6 +65,7 @@ body {
   -webkit-font-smoothing: subpixel-antialiased;
   text-align: center;
   color: white;
+  background-color: #2F3D45;
 }
 [contentEditable] {
   outline: none;
