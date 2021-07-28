@@ -6,37 +6,37 @@ var BannersCollection = [
    {
 	    "id": 0,
 	    "name": "English Banner",
-	    "width": 1000,
-	    "height": 1000,
+	    "width": 500,
+	    "height": 500,
 	    "cssClass": "a0-banner-default square"
 	  },
 	   {
 	    "id": 1,
 	    "name": "Spain Banner",
-	    "width": 1000,
-	    "height": 1000,
+	    "width": 500,
+	    "height": 500,
 	    "cssClass": "a0-banner-spain square"
 	  },
 	 {
 	    "id": 2,
 	    "name": "France Banner",
-	    "width": 1000,
-	    "height": 1000,
+	    "width": 500,
+	    "height": 500,
 	    "cssClass": "a0-banner-france square"
 	  },
 	   {
 	    "id": 3,
 	    "name": "Brazil Banner",
-	    "width": 1000,
-	    "height": 1000,
-	    "cssClass": "a0-banner-brazil square"
+	    "width": 500,
+	    "height": 500,
+	    "cssClass": "a0-banner-Brazil square"
 	  },
 	   {
 	    "id": 4,
 	    "name": "Portugal Banner",
-	    "width": 1000,
-	    "height": 1000,
-	    "cssClass": "a0-banner-portugal square"
+	    "width": 500,
+	    "height": 500,
+	    "cssClass": "a0-banner-Portugal square"
 	  },
 ];
 
