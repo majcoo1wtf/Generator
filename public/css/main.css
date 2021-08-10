@@ -114,9 +114,23 @@ body {
   margin-bottom: 1.1em;
   display: inline-block;
   font-family: Manrope;
-  font-weight: bold;
+  font-weight: Bold;
   color: #00ff6a;
   text-transform: uppercase;
+}
+.a0-banner-rain .copy {
+  padding-top: 0.5em;
+  font-size: 7.75em;
+  line-height: 1.6;
+  font-weight: normal;
+  margin-bottom: 1.1em;
+  display: inline-block;
+  font-family: Manrope;
+  font-weight: 100;
+  text-transform: uppercase;
+ padding-right: 4em;
+color: #FFD000;
+ text-shadow: 0px 9px 0px #A67901 !important;
 }
 .a0-banner-base .btn.btn-success {
   /* outline: none; */
@@ -212,8 +226,17 @@ body {
   background-size: 100%;
   background-position: center center;
   color: #5c666f;
-  background-image: url("../img/portugal.svg");
+  background-image: url("../img/Portugal.svg");
   background-position: center center;
+}
+.a0-banner-rain.a0-banner-rain {
+  background: #f5f5f5;
+  background-size: 100%;
+  background-position: center center;
+  color: #5c666f;
+  background-image: url("../img/rain.svg");
+  background-position: center center;
+ 
 }
 .a0-banner-base.a0-banner-default.horizontal .copy {
   margin: 0;

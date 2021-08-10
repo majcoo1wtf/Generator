@@ -91,6 +91,13 @@
 	    "height": 500,
 	    "cssClass": "a0-banner-Portugal square"
 	  },
+	   {
+	    "id": 5,
+	    "name": "Rain",
+	    "width": 1012,
+	    "height": 506,
+	    "cssClass": "a0-banner-rain square"
+	  },
 	];
 
 	var ContentEditable = React.createClass({displayName: 'ContentEditable',
@@ -133,7 +140,7 @@
 	    var config = this.props.config;
 
 	    return {
-	      copy: config.defaultCopy || 'Enter Promocode',
+	      copy: config.defaultCopy || 'Data',
 	    };
 	  },
 	  getStyles: function(x) {

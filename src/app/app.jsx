@@ -38,6 +38,13 @@ var BannersCollection = [
 	    "height": 500,
 	    "cssClass": "a0-banner-Portugal square"
 	  },
+	   {
+	    "id": 5,
+	    "name": "Rain Banner",
+	    "width": 1012,
+	    "height": 506,
+	    "cssClass": "a0-banner-rain square"
+	  },
 ];
 
 var ContentEditable = React.createClass({
